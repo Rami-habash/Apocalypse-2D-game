@@ -5,7 +5,7 @@ Before you play:
 - Use w,a,s,d, or arrow keys to move
 - Tap or hold the space bar to shoot
 - If you die, refresh the page from the browser to restart the game
-- You can check out the code by scrolling down and clicking <See inside>
+- You can check out the code by scrolling down and clicking [See inside]
 - Good luck!
 
 Link: https://pixelpad.io/app/pffvyewvasi/
