@@ -1,5 +1,5 @@
 # Apocalypse-2D-game
-This is a game I created on PixelPAD.io in Python using my programming experience. The main goal of this project is to explore the potential of generative AI in game design. The design aspects are primarily made by prompting ChatGPT. However, the coding is human, and I found that ChatGPT struggles to produce code for less-popular game engines like PixelPAD because it doesn't fully understand their documentation.
+This is a game I created on PixelPAD.io in Python using my programming experience. The main goal of this project is to explore the potential of generative AI in game design. The design aspects are primarily made by prompting ChatGPT. However, the coding is primarily human, and I found that ChatGPT struggles to produce code for less-popular game engines like PixelPAD because it doesn't fully understand their documentation.
 
 Before you play:
 - Use w,a,s,d, or arrow keys to move
