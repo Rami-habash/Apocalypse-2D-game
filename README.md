@@ -19,8 +19,7 @@ Coding:
 - I decided to make a project over multiple days to create my own game
 - I learned a lot of new concepts, like the math equations necessary to calculate
   the angle between the player and the enemy, so that the enemy can move towards the player
-- When I didn't know how to code something, I would resort to Pixelpad's documentation.
-- It was challenging for generative AI to help with coding in the context of PixelPAD. Even though the language was in Python.
+- When I didn't know how to code something, I would primarily resort to Pixelpad's documentation because I found it challenging for generative AI to help with coding in the context of PixelPAD. Even though the language is in Python.
 
 Game Design:
 
