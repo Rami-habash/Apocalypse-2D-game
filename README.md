@@ -23,6 +23,7 @@ Coding:
 - It was challenging for generative AI to help with coding in the context of PixelPAD. Even though the language was in Python.
 
 Game Design:
+
 As I mentioned, this project aimed to explore the limits of generative AI and simplify the software development experience for those passionate about development and creation. 
 
   AI-generated assets:
